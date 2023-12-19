@@ -27,6 +27,6 @@ const fetcher = async (url) => {
             <p>Name: {data.name}</p>
             <p>Price: {data.price}</p>
         </div>
-    )
+    );
 
 }
